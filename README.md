@@ -14,3 +14,11 @@ First I tried to data into snowflake:
       * I added snowsql successfully and it is working fine.
       * But when I tried to load data it is giving me. That is,
       * Error image:
+      ![Screenshot (19)](https://user-images.githubusercontent.com/104750237/171314508-cbb50440-db62-4a9f-b331-919aa367cd90.png)
+      * This is the error I'm getting for the large data files.
+      * I also tried by reducing the row count of tags xml file to 14, it worked fine. When i tried to load whole dataset it is giving the error like 'failed for exceeding maximum retries'.
+3) Final method:
+     * For the final method, I tried to add data by editing it manually.
+     * I have reduced the row count to 1000 and tried to upload it into snowflake.
+     * I'm getting another error i.e, 
+
