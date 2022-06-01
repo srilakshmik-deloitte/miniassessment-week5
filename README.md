@@ -23,3 +23,7 @@ First I tried to data into snowflake:
      * I'm getting another error i.e, 
      * ![Screenshot (20)](https://user-images.githubusercontent.com/104750237/171315559-09340699-5805-4eee-bffb-3c9b93a1d098.png)
      * I'm unable to copy the files into table, it is showing the sql compilation error.
+     * This is the error I'm getting when running queries:
+     * ![Screenshot (22)](https://user-images.githubusercontent.com/104750237/171315781-aa87dd01-a019-4afb-9090-2c3ebfc08baa.png)
+
+Finally I tried all these methods, but failed to get required result. Unable to load data into snowflake.
