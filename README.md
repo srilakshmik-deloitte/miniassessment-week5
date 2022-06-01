@@ -21,4 +21,5 @@ First I tried to data into snowflake:
      * For the final method, I tried to add data by editing it manually.
      * I have reduced the row count to 1000 and tried to upload it into snowflake.
      * I'm getting another error i.e, 
-
+     * ![Screenshot (20)](https://user-images.githubusercontent.com/104750237/171315559-09340699-5805-4eee-bffb-3c9b93a1d098.png)
+     * I'm unable to copy the files into table, it is showing the sql compilation error.
